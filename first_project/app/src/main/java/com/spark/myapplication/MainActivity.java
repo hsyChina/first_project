@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,"version,控制",Toast.LENGTH_LONG).show();
             }
         });
+        one.setText("helloword!");
     }
 }
